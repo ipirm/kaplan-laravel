@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'main' => 'Main',
+    'catalog' => 'Catalog',
+    'aboutus' => 'About Us',
+    'activity' => 'Activity',
+    'contact' => 'Contacts',
+    'number' => 'Number:',
+    'mail' => 'Mail:',
+    'rightreserve' => 'All rights reserved',
+    'copyright' => '© Kaplan Khuraman 2011.',
+    'handmade' => '10.567 - Handmade Products',
+    'language' => 'Language:',
+    'order' => 'Just call us and we will make unique accessories for you!',
+    'mailnews' => 'Leave your email to receive news about our new products.',
+    'send' => 'Send',
+    'name' => 'Name',
+    'surname' => 'Surname',
+    'phonenumber' => 'Phone Number',
+    'delivery' => 'Adress for Delivery',
+    'acquire' => 'Buy',
+    'materials' => 'We use such materials as:',
+    'events' => 'Our company participated in many events.',
+    'yname' => 'Your Name',
+    'ymail' => 'Your E-mail',
+    'ordername' => 'Your name',
+    'ordersurname' => 'Your surname',
+    'orderadress' => 'Add your address here',
+
+];
